@@ -83,7 +83,7 @@ const Hero = () => {
         initial="initial"
         animate="animate"
       >
-        Educationist Behavioural Change Strategist
+        COMING SOON
       </motion.div>
       <div className="imageContainer">
         <img src="/hero.png" alt="" />
