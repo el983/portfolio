@@ -15,7 +15,7 @@ const Navbar = () => {
         >
         </motion.span>
         <div className="social">
-          <a href="#">
+          {/* <a href="#">
             <img src="/facebook.png" alt="" />
           </a>
           <a href="#">
@@ -26,7 +26,7 @@ const Navbar = () => {
           </a>
           <a href="#">
             <img src="/dribbble.png" alt="" />
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
